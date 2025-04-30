@@ -1,3 +1,20 @@
 session 1 : Examining the applications of binary images
 session 2 : thresholding and methods of this (i wroted code for each methods of them)
 session 3 : quiz about main target of thresholding : get binary image
+session 4 : theory of otsu method for thresholding 
+session 5 : otsu method execution in python 
+session 6 : adaptive thresholding vs another methods for thresholding 
+session 7 : quiz from thresholding methods 
+session 8 (practice 8) : adaptive thresholding method on an image for showing just numbers 
+session 9 : dialtion and erosion definition (a methods for deleting noise from images)
+session 10 : detailing in dialtion 
+session 11 : quiz of dialtion method
+session 12 : detailing in erosion
+session 13 : opening operation (ersion followed by dilation)
+session 14 : closing operation (dilation followed by ersion)
+session 15 : 
+session 16 : 
+session 17 : 
+session 18 : 
+session 19 : 
+session 20 : 
